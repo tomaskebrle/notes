@@ -1,0 +1,2 @@
+- Zdokonaluje se, zvětšuje se. 
+- 

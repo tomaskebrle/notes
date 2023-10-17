@@ -1,0 +1,6 @@
+- 3 vrstvy
+- paryby - plankovidné šupiny - smíšený původ
+- ryby -kostěné šupiny - druhy
+- plazi - kožní šupiny
+- ptáci - druhy peří
+- 
