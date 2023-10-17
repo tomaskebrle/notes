@@ -1,4 +1,4 @@
-# Paryby
+# 🦈 Paryby
 - uzavřená
 - 1 krevní oběh
 - V těle se míchá
@@ -8,14 +8,15 @@
 	- 1 komora
 	- srdeční nástavec
 - V krvi 0.8% močoviny
-# Ryby
+# 🐟 Ryby
 - je uzavřená
 - srce pohání krev která koluje
 - Srdce
 	- 1 předsíň
 	- 1 komora
 - před předsíní žilný splav _(viz [[Cévní soustava#Paryby|paryby]] venózní srce)_
-# Obojživelníci
+---
+# 🐸 Obojživelníci
 - Srdce 
 	- 2 síně, 1 komora
 - **Larvy**
@@ -24,8 +25,8 @@
 	- odkyslyčené krev koluje do žaber na okyslyčení
 - **Dospělí**
 	- dojisté míry mají oddělení
-	- malý plicní a velký tělní oběh (míšení krve) -> to nepřečtu
-
+	- malý plicní a velký tělní oběh (míšení krve) -> studenokrevnost
+---
 # Plazi
 ## 🐍 Haďáci
 - Podobná ostatní obratlovcům
@@ -42,6 +43,7 @@
 - mají chlopně
 - při plávání mají 1-2 tepy/min.
 - zrychlí se při nadechnutí
+---
 # 🐦Ptačáci
 - 4 dílné srdce
 	- 2 předsíně
@@ -49,7 +51,7 @@
 - oddělný plicní a tělní oběh
 - nedochází k míšení okyslyčené a odkyslyčené krve
 - $\uparrow$ metabolismus, srdeční tep
-# Savci
+# 🧔‍♂ Savci
 - kompletné oddělená srdeční komora
 - 2 komory, 2 síně
 - Pravá síň je spojena s pravou komorou a levá síň s levou komorou

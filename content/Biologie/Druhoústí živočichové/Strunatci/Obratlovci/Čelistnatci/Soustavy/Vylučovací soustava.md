@@ -11,5 +11,4 @@
 - osmoregulace sladkovodních a mořských ryb
 	- Ryba ve sladkovodní nemusí šetřit s vodou protože má větší koncentraci než okolí a tak si může dovolovat vylučovat více moči naž mořská, která s ní musí šetřit
 ---
-- Ryby - kostěné šupiny
-- Ptáci - druhy peři
+![[393734056_6435366146591139_3927281099484485775_n.jpg]]

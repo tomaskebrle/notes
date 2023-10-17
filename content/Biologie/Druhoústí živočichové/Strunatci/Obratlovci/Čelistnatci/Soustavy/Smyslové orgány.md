@@ -1,4 +1,4 @@
-# 👨‍🦽🐟 Paryby
+# 🦈 Paryby
 ## Proudový orgán
 - postranní čára
 - hloubkoméř, měření teploty a slanosti vody
