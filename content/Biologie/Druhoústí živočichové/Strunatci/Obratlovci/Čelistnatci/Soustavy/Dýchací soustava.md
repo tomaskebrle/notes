@@ -39,7 +39,7 @@
 
 # Plazi
 
-Tady se s tím někdo nesral 😂 (jste to mohli alespoň trochu změnit ne https://www.biomach.cz/biologie-%C5%BEivo%C4%8Dich%C5%AF/plazi)
+[zdroj](https://www.biomach.cz/biologie-%C5%BEivo%C4%8Dich%C5%AF/plazi)
 
 - výhradně plíce, kožnímu dýchání zamezuje zrohovatělá pokožka
 - dýchací cesty členeny na hrtan, průdušnici a 2 průdušky
